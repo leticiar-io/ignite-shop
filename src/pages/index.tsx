@@ -1,11 +1,7 @@
 import { styled } from "../styles"
 
-const Button = styled('button', {
-  backgroundColor: "$rocketseat",
-})
-
 export default function Home() {
   return (
-    <Button>AAA</Button>
+    <h1>AAA</h1>
   )
 }
