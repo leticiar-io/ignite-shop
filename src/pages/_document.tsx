@@ -13,8 +13,6 @@ export default function Document() {
         />
         <style id="stitches" dangerouslySetInnerHTML={{ __html: getCssText() }} />
         <link rel="icon" type="image/svg+xml" href="/logo.svg" />
-
-        <title>Ignite Shop</title>
       </Head>
       <body>
         <Main />
