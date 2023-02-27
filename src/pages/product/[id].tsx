@@ -12,10 +12,16 @@ interface ProductProps {
     imageUrl: string;
     price: string;
     description: string;
+    defaultPriceId: string;
   }
 }
 
 export default function Product({ product }: ProductProps) {
+  function handleBuyButton() {
+    console.log('asdasd');
+  }
+
+
   return (
     <ProductContainer>
       <ImageContainer>
@@ -28,7 +34,7 @@ export default function Product({ product }: ProductProps) {
 
         <p>{product.description}</p>
         
-        <button>
+        <button  onClick={handleBuyButton}>
           Comprar agora
         </button>
       </ProductDetails>
