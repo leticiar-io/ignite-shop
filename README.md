@@ -1,4 +1,27 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Ignite Shop - Next.js fundamentals (Ignite)
+
+<div>
+  <img src="https://img.shields.io/static/v1?label=Taught%20by&message=Rocketseat&color=white&labelColor=00875F" alt="Taught by Rocketseat">
+  <img src="https://img.shields.io/github/forks/leticiar-io/ignite-shop?label=forks&message=MIT&color=white&labelColor=00875F" alt="Forks">
+  <img src="https://img.shields.io/github/stars/leticiar-io/ignite-shop?label=stars&message=MIT&color=white&labelColor=00875F" alt="Stars">
+</div>
+<img id="ignite-shop" src="./.github/capa.png" alt="ignite-shop cover">
+
+> Project carried out during the classes of the 4st React JS module of Rocketseat Ignite
+
+<br></br>
+
+## 🧪 Technologies
+
+This project was developed using the following technologies:
+
+- [Nextjs](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Stitches](https://stitches.dev/)
+- [Stripe](https://stripe.com/br)
+- [Keen Slider](https://keen-slider.io/)
+
+<br></br>
 
 ## Getting Started
 
@@ -30,9 +53,3 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
